@@ -1,29 +1,20 @@
-## Portfolio
+## Esquema
 
 ---
 
-### Category Name 1 
+### Abril 9 2020 
 
+9:30am Hora Bogotá
+Tema: Planetas del Sistema Solar
 [Project 1 Title](/sample_page)
-<img src="images/stars.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/stars.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/stars.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Abril 2 2020, 1:30pm Hora Bogota
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+9:30am Hora Bogotá
+Tema: Planetas del Sistema Solar
+
 
 ---
 
@@ -31,5 +22,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
