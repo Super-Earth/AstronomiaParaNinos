@@ -19,6 +19,8 @@ Aunque no soy muy activa en Twitter me pueden seguir en <a href="https://www.twi
 Tema: Formación del Sistema Solar --
 [Charla](/images/header.jpg)
 
+Cubrimos como los planetas del sistema solar se formaron, la diferencia entre los planetas gaseosos y los rocosos.
+
 ---
 
 ### Abril 9 2020 
@@ -27,13 +29,18 @@ Tema: Formación del Sistema Solar --
 
 Tema: Planetas del Sistema Solar
 
+Cubrimos Jupiter, Saturno, Uranus, Neptuno. 
+Aprendimos porque Plutón no es un planeta
+
 ---
 
 ### Abril 2 2020
 
 1:30am Hora Bogotá, 2:30am Hora Toronto, 6:30pm Hora España
+
 Tema: Planetas del Sistema Solar
 
+Cubrimos La Tierra, Mercurio, Venus, y Marte
 
 ---
 ---
