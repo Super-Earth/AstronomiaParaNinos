@@ -17,9 +17,9 @@ Tema: Planetas del Sistema Solar
 
 ---
 
-### Abril 2 2020, 1:30pm Hora Bogota
+### Abril 2 2020
 
-9:30am Hora Bogotá
+1:30pm Hora Bogotá
 Tema: Planetas del Sistema Solar
 
 
