@@ -3,6 +3,7 @@ Debido a la situación de aislamiento físico en la que nos encontramos la mayor
 
 Si tienen preguntas concretas o me quieren enviar 'feedback' me pueden escribir a dvalpin arroba gmail.com.
 
+/images/stars.jpg
 
 ## Esquema
 
