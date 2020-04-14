@@ -6,7 +6,7 @@
 
 9:30am Hora Bogotá
 Tema: Formación del Sistema Solar
-[Project 1 Title](/sample_page)
+[Project 1 Title](/header)
 
 ---
 
@@ -14,7 +14,6 @@ Tema: Formación del Sistema Solar
 
 9:30am Hora Bogotá
 Tema: Planetas del Sistema Solar
-[Project 1 Title](/sample_page)
 
 ---
 
