@@ -14,7 +14,7 @@ Aunque no soy muy activa en Twitter me pueden seguir en <a href="https://www.twi
 
 ### Abril 16 2020 
 
-9:30am Hora Bogotá, 10:30am Hora Toronto, 2:30pm Hora España
+9:30am Hora Bogotá, 10:30am Hora Toronto, 3:30pm Hora España
 
 Tema: Formación del Sistema Solar --
 [Charla](/images/header.jpg)
@@ -25,7 +25,7 @@ Cubrimos como los planetas del sistema solar se formaron, la diferencia entre lo
 
 ### Abril 9 2020 
 
-9:30am Hora Bogotá, 10:30am Hora Toronto, 2:30pm Hora España
+9:30am Hora Bogotá, 10:30am Hora Toronto, 3:30pm Hora España
 
 Tema: Planetas del Sistema Solar
 
@@ -36,7 +36,7 @@ Aprendimos porque Plutón no es un planeta
 
 ### Abril 2 2020
 
-1:30am Hora Bogotá, 2:30am Hora Toronto, 6:30pm Hora España
+1:30am Hora Bogotá, 2:30am Hora Toronto, 7:30pm Hora España
 
 Tema: Planetas del Sistema Solar
 
