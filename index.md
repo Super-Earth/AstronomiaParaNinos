@@ -5,7 +5,7 @@
 ### Abril 16 2020 
 
 9:30am Hora Bogotá
-Tema: Formación del Sistema Solar
+Tema: Formación del Sistema Solar --
 [Charla](/images/header.jpg)
 
 ---
