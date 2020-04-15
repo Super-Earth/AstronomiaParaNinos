@@ -1,3 +1,5 @@
+# Astronomía Para Niños 
+
 ## Descripción
 Debido a la situación de aislamiento físico en la que nos encontramos la mayoría de las familias a nivel mundial, y pensando mucho en las familias con niños pequeños, quise compartir mi conocimiento en astronomía con los niños, y asi contribuir mi granito de arena.  Nos reunimos una vez por semana a través de zoom (las credenciales de entrada estan en un link en cada fecha), y conversamos por 45 minutos.
 
