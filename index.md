@@ -19,6 +19,8 @@ Aunque no soy muy activa en Twitter me pueden seguir en <a href="https://www.twi
 Tema: El Sol --
 [Charla](/images/header.jpg)
 
+https://zoom.us/j/8484252642?pwd=Yi93NnBWWXVBM2xKTFczRk1hbWRmZz09
+
 Vamos a hablar del sol y sus caracteristica.  Para esto vamos a hablar un poco de la luz y como la utilizamos para estudiar el cosmos.
 
 
