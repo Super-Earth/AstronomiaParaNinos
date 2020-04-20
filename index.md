@@ -23,6 +23,9 @@ https://zoom.us/j/8484252642?pwd=Yi93NnBWWXVBM2xKTFczRk1hbWRmZz09
 
 Vamos a hablar del sol y sus caracteristica.  Para esto vamos a hablar un poco de la luz y como la utilizamos para estudiar el cosmos.
 
+Para hacer algo divertido: si quieren dibujar alguna imagen del Sol, la pueden enviar a mi correo (dvalpin arroba gmail.com), y escogeré algunas para mostrarlas al principio de la clase.
+
+¡Nos vemos pronto!
 
 ---
 
