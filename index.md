@@ -12,6 +12,16 @@ Aunque no soy muy activa en Twitter me pueden seguir en <a href="https://www.twi
 
 ## Esquema
 
+### Abril 23 2020 
+
+12:00m Hora Bogotá, 1:00pm Hora Toronto, 7:00pm Hora España
+
+Tema: El Sol --
+[Charla](/images/header.jpg)
+
+Vamos a hablar del sol y sus caracteristica.  Para esto vamos a hablar un poco de la luz y como la utilizamos para estudiar el cosmos.
+
+
 ---
 
 ### Abril 16 2020 
@@ -19,7 +29,6 @@ Aunque no soy muy activa en Twitter me pueden seguir en <a href="https://www.twi
 9:30am Hora Bogotá, 10:30am Hora Toronto, 4:30pm Hora España
 
 Tema: Formación del Sistema Solar --
-[Charla](/images/header.jpg)
 
 Cubrimos como los planetas del sistema solar se formaron, la diferencia entre los planetas gaseosos y los rocosos.
 
